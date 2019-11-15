@@ -1,3 +1,89 @@
-.background{
+.background {
     background-image: url("../images/criss-cross.png");
+}
+
+.container {
+    width: 960px;
+}
+
+.maincontent {
+    background-color: #eee;
+    font-family: Helvetica, Arial, sans-serif;
+    border: #ddd 1px solid;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #777777;
+    font-size: 18px;
+    line-height: 1.4em;
+}
+
+header {
+    border: rgb(201, 201, 201) 1px solid;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #666666;
+    margin: 0;
+    font-size: 8px;
+    color: #ffffff;
+    border-top: 8px solid #4aaaa5;
+}
+
+hr {
+    border: 1px solid #4aaaa5;
+    background-color: #4aaaa5;
+}
+
+.name {
+    
+    color: #f0f0f0;
+    background-color: #4aaaa5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 15px;
+}
+
+.name:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+textarea {
+    height: 200px;
+    min-height: 200px;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: 1px solid #ffffff;  
+}
+
+.portfolioimage {
+    height: 200px;
+    width: 300px;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 639px) {
+
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767px) {
+
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991px) {
+
 }
