@@ -6,9 +6,9 @@ Repository link : https://github.com/leonghh/Week-2-HW.git
 Portfolio link : https://leonghh.github.io/Week-2-HW/
 
 Screenshots:
-![Image description](C:\Users\hongh\Bootcamp\Homework\Week-2-HW\assets\images\AboutMe.PNG)
+![Image description](assets\images\AboutMe.PNG)
 
-![Image description](C:\Users\hongh\Bootcamp\Homework\Week-2-HW\assets\images\Portfolio.PNG)
+![Image description](assets\images\Portfolio.PNG)
 
-![Image description](C:\Users\hongh\Bootcamp\Homework\Week-2-HW\assets\images\Contact.PNG)
+![Image description](assets\images\Contact.PNG)
 
