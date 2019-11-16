@@ -73,17 +73,17 @@ textarea {
     width: 300px;
 }
 
-// Extra small devices (portrait phones, less than 576px)
 @media (max-width: 639px) {
 
 }
 
-// Small devices (landscape phones, less than 768px)
 @media (max-width: 767px) {
-
+    .margin {
+        margin-bottom: 30px;
+    }
 }
 
-// Medium devices (tablets, less than 992px)
 @media (max-width: 991px) {
 
+    }
 }
